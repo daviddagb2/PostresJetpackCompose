@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PostresJetpackCompose</string>
+
+
+    <string name="one_dessert">Un Postre</string>
+    <string name="six_desserts">Seis Postres</string>
+    <string name="twelve_desserts">Doce Postres</string>
+
+</resources>
